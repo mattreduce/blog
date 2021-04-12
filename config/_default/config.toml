@@ -1,4 +1,4 @@
-baseURL = "https://mattreduce.github.io"
+baseURL = "https://mattreduce.com"
 title = "mattreduce"
 
 theme = "github.com/wangchucheng/hugo-eureka"
