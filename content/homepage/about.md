@@ -49,4 +49,10 @@ avatar = "images/avatar.jpg"
 
 ## About me
 
-I like to work on or think about C2 infrastructure, macOS, OSINT, physical security, foreign affairs. I made [Venus](https://github.com/MythicAgents/venus), a payload for Mythic C2, to highlight the attack surface area of the popular Visual Studio Code editor. I also contribute to other open source projects like [Mythic](https://github.com/its-a-feature/Mythic) and [SwiftBelt](https://github.com/cedowens/SwiftBelt).
+I like to work on or think about C2 infrastructure, macOS, OSINT, physical 
+security, foreign affairs. I made [Venus](https://github.com/MythicAgents/venus), 
+a payload for Mythic C2, to highlight the attack surface area of the popular 
+Visual Studio Code editor. I also contribute to other open source projects like 
+[Mythic](https://github.com/its-a-feature/Mythic), 
+[HealthInspector](https://github.com/its-a-feature/HealthInspector), and 
+[SwiftBelt](https://github.com/cedowens/SwiftBelt).
