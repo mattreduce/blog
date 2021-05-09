@@ -56,7 +56,7 @@ I made [Venus](https://github.com/MythicAgents/venus),
 a payload for Mythic C2, to highlight the attack surface area of the popular 
 Visual Studio Code editor. It installs (as an initial payload or as persistence after landing on a host) as a normal VS Code extension but provides cross-platform remote access.
 
-To help myself and my team create and manage identities for red team operations, I made [Sockdrawer](https://mattreduce.com/sockdrawer/), a web app-based alias identity manager. Others might find it useful, like OSINT collectors, journalists, and privacy-conscious people.
+To help myself and my team create and manage identities for red team operations, I made [Sockdrawer](https://sockdrawer.app), a web app-based alias identity manager. Others might find it useful, like OSINT collectors, journalists, and privacy-conscious people.
 
 I also contribute to other open source projects like 
 [Mythic](https://github.com/its-a-feature/Mythic), 
