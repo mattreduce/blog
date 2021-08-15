@@ -1,7 +1,7 @@
 mainSections = ["posts"]
 description = "Matthew Conway (mattreduce)"
 
-repoURL = "https://github.com/mattreduce/mattreduce.github.io"
+repoURL = "https://github.com/mattreduce/blog"
 # If it is a Github repo, leave blank
 repoEditURL = ""
 
