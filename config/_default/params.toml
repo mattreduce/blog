@@ -14,7 +14,7 @@ colorScheme = "auto"
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType = "Person"
-icon = "images/icon.png"
+icon = "images/avatar.jpg"
 publisherName = "Matthew Conway"
 publisherLogo = ""
 
