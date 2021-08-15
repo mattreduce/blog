@@ -3,6 +3,7 @@ title: "Exploring VS Code's Global State"
 date: 2021-08-15T00:55:00-07:00
 tags: ['vscode', 'mythic', 'malware']
 categories: ['Red Teaming']
+featuredImage: images/posts/vscode-global-state.png
 draft: false
 ---
 
