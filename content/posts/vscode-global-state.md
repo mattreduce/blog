@@ -36,7 +36,7 @@ sqlite> SELECT * FROM ItemTable WHERE key = 'corp.venus';
 corp.venus|{"productID":"c5b3ee3a-0ddb-4406-9a7e-f450d0e4563d"}
 ```
 
-Once this is stored in VS Code's global state, Venus extension won't try to check in again. You can clear out this value and force the payload to check in by deleting the `corp.venus` record. The exact key will vary based on your extension's publisher and name/identifier that you chose when building the payload in Mythic.
+Once this is stored in VS Code's global state, the Venus extension won't try to check in again. You can clear out this value and force the payload to check in by deleting the `corp.venus` record. The exact key will vary based on your extension's publisher and name/identifier that you chose when building the payload in Mythic.
 
 ```
 sqlite> DELETE FROM ItemTable WHERE key = 'corp.venus';
