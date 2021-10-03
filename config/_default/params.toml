@@ -1,9 +1,5 @@
-mainSections = ["posts"]
+mainSections = ["posts", "projects"]
 description = "Matthew Conway (mattreduce)"
-
-repoURL = "https://github.com/mattreduce/blog"
-# If it is a Github repo, leave blank
-repoEditURL = ""
 
 dateFormat = ""
 

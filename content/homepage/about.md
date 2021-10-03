@@ -49,16 +49,14 @@ avatar = "images/avatar.jpg"
 
 ## About me
 
-I like to work on or think about C2 infrastructure, macOS, OSINT, physical 
-security, foreign affairs.
+:books: I like to work on or think about C2 infrastructure, macOS, OSINT, physical 
+security, foreign affairs
 
-I made [Venus](https://github.com/MythicAgents/venus), 
-a payload for Mythic C2, to highlight the attack surface area of the popular 
-Visual Studio Code editor. It installs (as an initial payload or as persistence after landing on a host) as a normal VS Code extension but provides cross-platform remote access.
+:briefcase: Check out my [Projects](/projects/) page for some examples of my recent public
+work
 
-To help myself and my team create and manage identities for red team operations, I made [Sockdrawer](https://sockdrawer.app), a web app-based alias identity manager. Others might find it useful, like OSINT collectors, journalists, and privacy-conscious people.
-
-I also contribute to other open source projects like 
-[Mythic](https://github.com/its-a-feature/Mythic), 
-[HealthInspector](https://github.com/its-a-feature/HealthInspector), and 
-[SwiftBelt](https://github.com/cedowens/SwiftBelt).
+:handshake: I also contribute to others' open source projects like
+[Mythic](https://github.com/its-a-feature/Mythic),
+[Poseidon](https://github.com/MythicAgents/poseidon),
+[HealthInspector](https://github.com/its-a-feature/HealthInspector), and
+[SwiftBelt](https://github.com/cedowens/SwiftBelt)
