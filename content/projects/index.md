@@ -128,9 +128,9 @@ server for use with payloads running in my local macOS research lab.
 
 [github.com/mattreduce/cti-self-study](https://github.com/mattreduce/cti-self-study)
 
-| Type                   | Stack        |
-|:-----------------------|:-------------|
-| Dev environment config | Bash/Vagrant |
+| Type           | Stack             |
+|:---------------|:------------------|
+| Notes template | Markdown/Obsidian |
 
 I recently started working through Katie Nickels' Cyber Threat Intelligence
 Self Study Plan. It's a collection of suggested reading, videos, activities and
