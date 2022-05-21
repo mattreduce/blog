@@ -3,7 +3,7 @@ title = "Matthew Conway"
 weight = 1
 draft = false
 
-role = "Offensive Security Engineer"
+role = "Security Engineer"
 bio = "A little bit boy scout, a little bit cowboy"
 avatar = "images/avatar.jpg"
 
